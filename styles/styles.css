@@ -1,4 +1,11 @@
 body {
     background-color: orange;
     color: red;
+    width: 300px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+p {
+    text-decoration: underline;
 }
